@@ -1,9 +1,15 @@
 # Lectura de PDF Chatbot con Langchain y Streamlit
 Este Chatbot es una aplicación interactiva desarrollada para interactuar con su PDF. Está construido utilizando Open Source Stack. 
 
+<p align=center>
+<img src="src\banner.png" height = 420 weight=500>
+<p>
+
+
+## Arquitectura de la aplicación
 
 <p align=center>
-<img src="src\banner.png" height = 450 weight=500>
+<img src="src\arq.png" height = 450 weight=250>
 <p>
 
 ## Ejecución Local 💻
