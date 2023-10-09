@@ -10,3 +10,5 @@ bs4
 sentence_transformers
 chromadb
 ctransformers
+pypdf
+streamlit_chat
